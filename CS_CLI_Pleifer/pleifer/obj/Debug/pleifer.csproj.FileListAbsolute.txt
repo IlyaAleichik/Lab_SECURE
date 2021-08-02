@@ -1,0 +1,7 @@
+C:\Users\Полина Тиханович\source\repos\pleifer\pleifer\bin\Debug\pleifer.exe.config
+C:\Users\Полина Тиханович\source\repos\pleifer\pleifer\bin\Debug\pleifer.exe
+C:\Users\Полина Тиханович\source\repos\pleifer\pleifer\bin\Debug\pleifer.pdb
+C:\Users\Полина Тиханович\source\repos\pleifer\pleifer\obj\Debug\pleifer.csprojResolveAssemblyReference.cache
+C:\Users\Полина Тиханович\source\repos\pleifer\pleifer\obj\Debug\pleifer.csproj.CoreCompileInputs.cache
+C:\Users\Полина Тиханович\source\repos\pleifer\pleifer\obj\Debug\pleifer.exe
+C:\Users\Полина Тиханович\source\repos\pleifer\pleifer\obj\Debug\pleifer.pdb

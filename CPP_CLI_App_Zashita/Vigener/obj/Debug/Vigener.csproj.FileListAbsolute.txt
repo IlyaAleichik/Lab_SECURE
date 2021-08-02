@@ -1,0 +1,10 @@
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Vigener\bin\Debug\Vigener.exe.config
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Vigener\bin\Debug\Vigener.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Vigener\bin\Debug\Vigener.pdb
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Vigener\obj\Debug\Vigener.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Vigener\obj\Debug\Vigener.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Vigener\obj\Debug\Vigener.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Vigener\obj\Debug\Vigener.pdb
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\Vigener.exe.config
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\Vigener.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\Vigener.pdb

@@ -1,0 +1,13 @@
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\Задание KПи\Ссылки и указатели\Morse2\Morse2\bin\Debug\Morse2.exe.config
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\Задание KПи\Ссылки и указатели\Morse2\Morse2\bin\Debug\Morse2.exe
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\Задание KПи\Ссылки и указатели\Morse2\Morse2\bin\Debug\Morse2.pdb
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\Задание KПи\Ссылки и указатели\Morse2\Morse2\obj\Debug\Morse2.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\Задание KПи\Ссылки и указатели\Morse2\Morse2\obj\Debug\Morse2.exe
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\Задание KПи\Ссылки и указатели\Morse2\Morse2\obj\Debug\Morse2.pdb
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Morse2\Morse2\obj\Debug\Morse2.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Morse2\Morse2\obj\Debug\Morse2.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Morse2\Morse2\obj\Debug\Morse2.exe
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Morse2\Morse2\obj\Debug\Morse2.pdb
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Morse2\Morse2\bin\Debug\Morse2.exe.config
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Morse2\Morse2\bin\Debug\Morse2.exe
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Morse2\Morse2\bin\Debug\Morse2.pdb

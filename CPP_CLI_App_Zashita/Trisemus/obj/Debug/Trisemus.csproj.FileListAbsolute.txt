@@ -1,0 +1,7 @@
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\Trisemus.exe.config
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\Trisemus.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\Trisemus.pdb
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Trisemus\obj\Debug\Trisemus.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Trisemus\obj\Debug\Trisemus.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Trisemus\obj\Debug\Trisemus.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Trisemus\obj\Debug\Trisemus.pdb

@@ -1,0 +1,14 @@
+C:\Users\Илья Алейчик\source\repos\Triemus\Triemus\bin\Debug\Triemus.exe.config
+C:\Users\Илья Алейчик\source\repos\Triemus\Triemus\bin\Debug\Triemus.exe
+C:\Users\Илья Алейчик\source\repos\Triemus\Triemus\bin\Debug\Triemus.pdb
+C:\Users\Илья Алейчик\source\repos\Triemus\Triemus\obj\Debug\Triemus.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\source\repos\Triemus\Triemus\obj\Debug\Triemus.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\source\repos\Triemus\Triemus\obj\Debug\Triemus.exe
+C:\Users\Илья Алейчик\source\repos\Triemus\Triemus\obj\Debug\Triemus.pdb
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Trisemus\Triemus\bin\Debug\Triemus.exe.config
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Trisemus\Triemus\bin\Debug\Triemus.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Trisemus\Triemus\bin\Debug\Triemus.pdb
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Trisemus\Triemus\obj\Debug\Triemus.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Trisemus\Triemus\obj\Debug\Triemus.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Trisemus\Triemus\obj\Debug\Triemus.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Trisemus\Triemus\obj\Debug\Triemus.pdb

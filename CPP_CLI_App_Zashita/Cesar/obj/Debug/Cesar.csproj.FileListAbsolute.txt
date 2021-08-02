@@ -1,0 +1,7 @@
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\Cesar.exe.config
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\Cesar.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\Cesar.pdb
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Cesar\obj\Debug\Cesar.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Cesar\obj\Debug\Cesar.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Cesar\obj\Debug\Cesar.pdb
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Cesar\obj\Debug\Cesar.csprojResolveAssemblyReference.cache

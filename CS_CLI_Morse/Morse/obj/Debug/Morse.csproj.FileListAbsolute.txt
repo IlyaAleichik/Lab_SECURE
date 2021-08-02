@@ -1,0 +1,6 @@
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Morse\Morse\bin\Debug\Morse.exe.config
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Morse\Morse\bin\Debug\Morse.exe
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Morse\Morse\bin\Debug\Morse.pdb
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Morse\Morse\obj\Debug\Morse.csprojResolveAssemblyReference.cache
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Morse\Morse\obj\Debug\Morse.exe
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Morse\Morse\obj\Debug\Morse.pdb

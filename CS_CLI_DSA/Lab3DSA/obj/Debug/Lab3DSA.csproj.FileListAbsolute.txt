@@ -1,0 +1,28 @@
+D:\VS\Криптография\Lab3\Lab3DSA\Lab3DSA\bin\Debug\Lab3DSA.exe.config
+D:\VS\Криптография\Lab3\Lab3DSA\Lab3DSA\bin\Debug\Lab3DSA.exe
+D:\VS\Криптография\Lab3\Lab3DSA\Lab3DSA\bin\Debug\Lab3DSA.pdb
+D:\VS\Криптография\Lab3\Lab3DSA\Lab3DSA\obj\Debug\Lab3DSA.csprojResolveAssemblyReference.cache
+D:\VS\Криптография\Lab3\Lab3DSA\Lab3DSA\obj\Debug\Lab3DSA.exe
+D:\VS\Криптография\Lab3\Lab3DSA\Lab3DSA\obj\Debug\Lab3DSA.pdb
+D:\ROVSHANA\PSU\VI семестр\КиОКИ\сдать\Lab3DSA\Lab3DSA\bin\Debug\Lab3DSA.exe.config
+D:\ROVSHANA\PSU\VI семестр\КиОКИ\сдать\Lab3DSA\Lab3DSA\obj\Debug\Lab3DSA.exe
+D:\ROVSHANA\PSU\VI семестр\КиОКИ\сдать\Lab3DSA\Lab3DSA\obj\Debug\Lab3DSA.pdb
+D:\ROVSHANA\PSU\VI семестр\КиОКИ\сдать\Lab3DSA\Lab3DSA\bin\Debug\Lab3DSA.exe
+D:\ROVSHANA\PSU\VI семестр\КиОКИ\сдать\Lab3DSA\Lab3DSA\bin\Debug\Lab3DSA.pdb
+D:\ROVSHANA\PSU\VI семестр\КиОКИ\сдать\Lab3DSA\Lab3DSA\bin\Debug\mscorlib.dll
+D:\ROVSHANA\PSU\VI семестр\КиОКИ\сдать\Lab3DSA\Lab3DSA\bin\Debug\ru\mscorlib.resources.dll
+D:\ROVSHANA\PSU\VI семестр\КиОКИ\сдать\Lab3DSA\Lab3DSA\bin\Debug\normidna.nlp
+D:\ROVSHANA\PSU\VI семестр\КиОКИ\сдать\Lab3DSA\Lab3DSA\bin\Debug\normnfc.nlp
+D:\ROVSHANA\PSU\VI семестр\КиОКИ\сдать\Lab3DSA\Lab3DSA\bin\Debug\normnfd.nlp
+D:\ROVSHANA\PSU\VI семестр\КиОКИ\сдать\Lab3DSA\Lab3DSA\bin\Debug\normnfkc.nlp
+D:\ROVSHANA\PSU\VI семестр\КиОКИ\сдать\Lab3DSA\Lab3DSA\bin\Debug\normnfkd.nlp
+D:\ROVSHANA\PSU\VI семестр\КиОКИ\сдать\Lab3DSA\Lab3DSA\obj\Debug\Lab3DSA.csprojResolveAssemblyReference.cache
+E:\DSA\Lab3DSA\Lab3DSA\bin\Debug\Lab3DSA.exe.config
+E:\DSA\Lab3DSA\Lab3DSA\obj\Debug\Lab3DSA.exe
+E:\DSA\Lab3DSA\Lab3DSA\obj\Debug\Lab3DSA.pdb
+E:\DSA\Lab3DSA\Lab3DSA\bin\Debug\Lab3DSA.exe
+E:\DSA\Lab3DSA\Lab3DSA\bin\Debug\Lab3DSA.pdb
+E:\DSA\Lab3DSA\Lab3DSA\obj\Debug\Lab3DSA.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DSA\Lab3DSA\bin\Debug\Lab3DSA.exe.config
+C:\Users\Admin\Desktop\DSA\Lab3DSA\obj\Debug\Lab3DSA.exe
+C:\Users\Admin\Desktop\DSA\Lab3DSA\obj\Debug\Lab3DSA.pdb

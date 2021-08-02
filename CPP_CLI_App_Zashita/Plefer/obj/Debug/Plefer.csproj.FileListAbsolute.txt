@@ -1,0 +1,7 @@
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\Plefer.exe.config
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\Plefer.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\Plefer.pdb
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Plefer\obj\Debug\Plefer.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Plefer\obj\Debug\Plefer.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Plefer\obj\Debug\Plefer.pdb
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\Plefer\obj\Debug\Plefer.csprojResolveAssemblyReference.cache

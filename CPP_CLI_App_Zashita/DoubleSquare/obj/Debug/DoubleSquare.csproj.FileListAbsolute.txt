@@ -1,0 +1,13 @@
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\DoubleSquare\bin\Debug\DoubleSquare.exe.config
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\DoubleSquare\bin\Debug\DoubleSquare.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\DoubleSquare\bin\Debug\DoubleSquare.pdb
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\DoubleSquare\obj\Debug\DoubleSquare.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\DoubleSquare\obj\Debug\DoubleSquare.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\DoubleSquare\obj\Debug\DoubleSquare.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\DoubleSquare\obj\Debug\DoubleSquare.pdb
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\DoubleSquare\CApp_Zashita\DoubleSquare.exe.config
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\DoubleSquare\CApp_Zashita\DoubleSquare.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\DoubleSquare\CApp_Zashita\DoubleSquare.pdb
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\DoubleSquare.exe.config
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\DoubleSquare.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\DoubleSquare.pdb

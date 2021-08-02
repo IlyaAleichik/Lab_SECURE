@@ -1,0 +1,7 @@
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\MagicSquare.exe.config
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\MagicSquare.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\CApp_Zashita\MagicSquare.pdb
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\MagicSquare\obj\Debug\MagicSquare.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\MagicSquare\obj\Debug\MagicSquare.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\MagicSquare\obj\Debug\MagicSquare.exe
+C:\Users\Илья Алейчик\source\repos\CApp_Zashita\MagicSquare\obj\Debug\MagicSquare.pdb
